@@ -6,14 +6,14 @@ const Footer = () => {
             <div className="container mx-auto text-center">
                 <p>&copy; 2024 Israel Gomez. Todos los derechos reservados.</p>
                 <div className="mt-4">
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
+                    <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
                         LinkedIn
                     </a>
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
+                    <a href="https://github.com/Isra0713/landingIsra.git" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
                         GitHub
                     </a>
-                    <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
-                        Twitter
+                    <a href="#" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white mx-2">
+                        Facebook
                     </a>
                 </div>
             </div>
